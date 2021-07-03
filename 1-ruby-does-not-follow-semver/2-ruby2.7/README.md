@@ -1,5 +1,5 @@
-| [Назад](../ruby2.6) | [Вперёд](../../2-separation-of-positional-and-keyword-args) |
-|:-------------------:|:-----------------------------------------------------------:|
+| [Назад](../1-ruby2.6) | [Вперёд](../../2-separation-of-positional-and-keyword-args) |
+|:---------------------:|:-----------------------------------------------------------:|
 
 Подготовка к запуску: `bundle install`
 
@@ -8,8 +8,8 @@
 Ожидаемый вывод:
 
 ```
-bundle exec /home/kotovalexarian/repos/global/causa-arcana/lesson-ruby3/1-ruby-does-not-follow-semver/ruby2.7/main.rb
-bundler: failed to load command: /home/kotovalexarian/repos/global/causa-arcana/lesson-ruby3/1-ruby-does-not-follow-semver/ruby2.7/main.rb (/home/kotovalexarian/repos/global/causa-arcana/lesson-ruby3/1-ruby-does-not-follow-semver/ruby2.7/main.rb)
+bundle exec /home/kotovalexarian/repos/global/causa-arcana/lesson-ruby3/1-ruby-does-not-follow-semver/2-ruby2.7/main.rb
+bundler: failed to load command: /home/kotovalexarian/repos/global/causa-arcana/lesson-ruby3/1-ruby-does-not-follow-semver/2-ruby2.7/main.rb (/home/kotovalexarian/repos/global/causa-arcana/lesson-ruby3/1-ruby-does-not-follow-semver/2-ruby2.7/main.rb)
 Traceback (most recent call last):
 	15: from /home/kotovalexarian/.rvm/gems/ruby-2.7.3/bin/bundle:23:in `<main>'
 	14: from /home/kotovalexarian/.rvm/gems/ruby-2.7.3/bin/bundle:23:in `load'
@@ -26,10 +26,10 @@ Traceback (most recent call last):
 	 3: from /home/kotovalexarian/.rvm/gems/ruby-2.7.3/gems/bundler-2.2.21/lib/bundler/cli/exec.rb:28:in `run'
 	 2: from /home/kotovalexarian/.rvm/gems/ruby-2.7.3/gems/bundler-2.2.21/lib/bundler/cli/exec.rb:63:in `kernel_load'
 	 1: from /home/kotovalexarian/.rvm/gems/ruby-2.7.3/gems/bundler-2.2.21/lib/bundler/cli/exec.rb:63:in `load'
-/home/kotovalexarian/repos/global/causa-arcana/lesson-ruby3/1-ruby-does-not-follow-semver/ruby2.7/main.rb:5:in `<top (required)>': undefined method `new' for BigDecimal:Class (NoMethodError)
+/home/kotovalexarian/repos/global/causa-arcana/lesson-ruby3/1-ruby-does-not-follow-semver/2-ruby2.7/main.rb:5:in `<top (required)>': undefined method `new' for BigDecimal:Class (NoMethodError)
 rake aborted!
 Command failed with status (1): [bundle exec /home/kotovalexarian/repos/glo...]
-/home/kotovalexarian/repos/global/causa-arcana/lesson-ruby3/1-ruby-does-not-follow-semver/ruby2.7/Rakefile:2:in `block in <top (required)>'
+/home/kotovalexarian/repos/global/causa-arcana/lesson-ruby3/1-ruby-does-not-follow-semver/2-ruby2.7/Rakefile:2:in `block in <top (required)>'
 /home/kotovalexarian/.rvm/gems/ruby-2.7.3/gems/rake-13.0.3/exe/rake:27:in `<top (required)>'
 Tasks: TOP => default
 (See full trace by running task with --trace)
