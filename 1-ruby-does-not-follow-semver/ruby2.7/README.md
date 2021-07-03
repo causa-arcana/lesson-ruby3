@@ -1,3 +1,7 @@
+[Назад к примеру](/1-ruby-does-not-follow-semver)
+
+---
+
 Подготовка к запуску: `bundle install`
 
 Запуск: `bundle exec rake`
