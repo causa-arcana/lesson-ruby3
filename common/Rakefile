@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 task :default do
   sh 'bundle', 'exec', 'main.rb'
 end

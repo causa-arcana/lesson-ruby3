@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+# frozen_string_literal: true
 
 def hash_conversion_to_kwargs(foo:, bar:)
   raise unless foo == 123 && bar == 456
