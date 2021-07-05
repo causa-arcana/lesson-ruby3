@@ -3,3 +3,15 @@
 
 | [Назад](../1-ruby-does-not-follow-semver/2-ruby2.7) | [Вперёд](1-ruby2.6) |
 |:---------------------------------------------------:|:-------------------:|
+
+
+
+Программы
+---------
+
+Пример состоит из трёх разных программ, выполняемых на разных версиях Ruby и
+демонстрирующих особенности позиционных и ключевых аргументов:
+
+* [Ruby 2.6](/2-separation-of-positional-and-keyword-args/1-ruby2.6)
+* [Ruby 2.7](/2-separation-of-positional-and-keyword-args/2-ruby2.7)
+* [Ruby 3.0](/2-separation-of-positional-and-keyword-args/3-ruby3.0)
