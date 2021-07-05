@@ -45,7 +45,7 @@ Ruby 3.0
 |:----------------------------------------:|
 
 1. [Ruby не следует спецификации семантического версионирования](/1-ruby-does-not-follow-semver)
-2. [Разделение позиционных и ключевых аргументов](/2-separation-of-positional-and-keyword-args)
+2. [Разделение позиционных и ключевых аргументов](/2-separation-of-pos-and-kw-args)
 3. [Ractor](/3-ractor)
 4. Fiber scheduler
 5. Static analysis
